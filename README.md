@@ -18,12 +18,19 @@
 
 **❗ Node version : v16.19.0**
 
+**⚠️ Il ya 2 fichier, l'un contient la mise en production et l'autre la réalisation sans build.**
+
+ -  **📁 vue-project-e-commerce-prod : fichier de production**
+
+ - **📁 vue-project-e-commerce : fichier de realisation sans build**
+
 #### Temps pour la réalisation & production du projet : 4J
 
 - # Fonctionnalité
 + **Ajout dans le panier de l'utilisateur**
-+ **Gestion de panier de l'utilisateur**
++ **Gestion du panier de l'utilisateur**
 + **Augmentation / Diminution du produit dans le panier de l'utilisateur**
++ **La possibilité de supprimer un article dans le panier de l'utilisateur**
 + **Recherche avancée, possible de rechercher par Nom, Prix et ID (Identifiant)**
 
 - # Preview
