@@ -1,4 +1,4 @@
-<h1> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="50px" /> E-Commerce-Vue</h1>
+<h1> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="50px" /> E-Commerce-Vue (BoostShop)</h1>
 
 <br />
 
@@ -27,6 +27,8 @@
 + **Recherche avancée, possible de rechercher par Nom, Prix et ID (Identifiant)**
 
 - # Preview
+
+**🌐 Un aperçu en ligne : [Vue-E-Commerce](https://vue-e-commerce23.netlify.app/)**
 
 ![](https://github.com/CodeIuk0/E-Commerce-Vue/blob/main/preview/Preview_00.PNG)
 
