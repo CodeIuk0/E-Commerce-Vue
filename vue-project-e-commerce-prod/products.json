@@ -1,0 +1,64 @@
+[
+  {
+    "productId": "DEB6E3D7-680D-44C4-BC4C-B36CFB124804",
+    "productName": "Eau de source CRISTALINE",
+    "productEAN": "3274080005003",
+    "productPicture": "https://images.openfoodfacts.org/images/products/327/408/000/5003/front_fr.901.400.jpg",
+    "productPrice": 96
+  },
+  {
+    "productId": "1614F93D-ADAE-49CB-9B03-AC776FA99D99",
+    "productName": "Eau gazeuse minérale naturelle SALVETAT",
+    "productEAN": "3068320115160",
+    "productPicture": "https://images.openfoodfacts.org/images/products/306/832/011/5160/front_fr.219.400.jpg",
+    "productPrice": 300
+  },
+  {
+    "productId": "212A14C7-E781-4F4E-88CE-6D4D2AAF44FB",
+    "productName": "Eau aromatisée fraise VOLVIC JUICY",
+    "productEAN": "3057640467233",
+    "productPicture": "https://images.openfoodfacts.org/images/products/305/764/046/7233/front_fr.83.400.jpg",
+    "productPrice": 112
+  },
+  {
+    "productId": "C73B7E67-8FDD-4336-9FA3-AE154B3CC3DC",
+    "productName": "Eau de source CARREFOUR",
+    "productEAN": "3270190113508",
+    "productPicture": "https://images.openfoodfacts.org/images/products/327/019/011/3508/front_fr.177.400.jpg",
+    "productPrice": 150
+  },
+  {
+    "productId": "416C3141-1D94-4BF7-93E1-932EF0D8EF72",
+    "productName": "Eau gazeuse PERRIER",
+    "productEAN": "3179732348913",
+    "productPicture": "https://images.openfoodfacts.org/images/products/317/973/234/8913/front_fr.4.400.jpg",
+    "productPrice": 336
+  },
+  {
+    "productId": "DA2536DB-94B7-4521-85EB-69D95D3F147D",
+    "productName": "Boisson concentrée orange",
+    "productEAN": "7290006319487",
+    "productPicture": "https://images.openfoodfacts.org/images/products/729/000/631/9487/front_fr.5.400.jpg",
+    "productPrice": 227
+  },
+  {
+    "productId": "2894056C-D783-46D6-ADF1-5FAAE9DCB503",
+    "productName": "Eau minérale naturelle VITTEL",
+    "productEAN": "7613036249928",
+    "productPicture": "https://images.openfoodfacts.org/images/products/761/303/624/9928/front_fr.280.400.jpg",
+    "productPrice": 246
+  },
+  {
+    "productId": "CAC1C405-F9AE-4232-A3E2-8F0FE1FA36FF",
+    "productName": "Eau gazeuse SAN PELLEGRINO",
+    "productPicture": "https://images.openfoodfacts.org/images/products/800/227/001/5809/front_fr.36.400.jpg",
+    "productPrice": 354
+  },
+  {
+    "productId": "B6CE3BD2-C2AF-400C-BDF3-6DF2BACD6E7C",
+    "productName": "Eau gazeuse minérale naturelle Fines Bulles PERRIER",
+    "productEAN": "3179732324825",
+    "productPicture": "https://images.openfoodfacts.org/images/products/317/973/232/4825/front_fr.6.400.jpg",
+    "productPrice": 54
+  }
+]
