@@ -6,7 +6,7 @@ import { ElMessage, ElMessageBox } from 'element-plus'
 
 
 
-// Pour faire des messageBox, pour les
+ Pour faire des messageBox, pour les informations
 const MessageBoxA = (title:string,message:string,type_:string="warning") => {
   ElMessageBox.confirm(
     message,
