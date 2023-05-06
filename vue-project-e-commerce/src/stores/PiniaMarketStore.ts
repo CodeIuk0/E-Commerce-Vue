@@ -112,13 +112,6 @@ export const UseMarketStore = defineStore('marketstore',  () => {
       // On sauvegarde le panier de l'utilisateur dans les cookies qui a un durée de vie de 30 jour 
       (VueCookies as any).set("UserBasket",JSON.stringify(MyBasket.value),"30d")
 
-      var totalprice = 0;
-    
-      for(let p = 0;p < MyBasket.value.length;p++)
-            totalprice += (MyBasket.value[p] as UserMarketProduct).productNumber * (MyBasket.value[p] as UserMarketProduct).productPrice
-       
-      totalPrice.value = totalprice
-
       // On fait une notification qui inclut le nom du produit, le nombre actuel dans le panier ainsi que le prix
       ElNotification({
         title: 'Success',
@@ -151,12 +144,6 @@ export const UseMarketStore = defineStore('marketstore',  () => {
      // On sauvegarde le panier de l'utilisateur dans les cookies qui a un durée de vie de 30 jour
     (VueCookies as any).set("UserBasket",JSON.stringify(MyBasket.value),"30d")
 
-    var totalprice = 0;
-
-    for(let p = 0;p < MyBasket.value.length;p++)
-          totalprice += (MyBasket.value[p] as UserMarketProduct).productNumber * (MyBasket.value[p] as UserMarketProduct).productPrice
-     
-    totalPrice.value = totalprice
   }
 
   // Cette fonction permet de supprimer un article dans le panier de l'utilisateur
@@ -183,16 +170,10 @@ export const UseMarketStore = defineStore('marketstore',  () => {
     // On sauvegarde le panier de l'utilisateur dans les cookies qui a un durée de vie de 30 jour
     (VueCookies as any).set("UserBasket",JSON.stringify(MyBasket.value),"30d")
     
-    var totalprice = 0;
-
-    for(let p = 0;p < MyBasket.value.length;p++)
-          totalprice += (MyBasket.value[p] as UserMarketProduct).productNumber * (MyBasket.value[p] as UserMarketProduct).productPrice
-     
-    totalPrice.value = totalprice
 
   }
 
-  // On retourne les methode et reference qui vont plus tard  être utilsier
+  // On retourne les methodes et reference qui vont plus tard  être utilsier
   return { Market, MyBasket,totalPrice, DeletFromMyBasket,AddProductOnMyBasek,SetProductNumber }
   
 })
